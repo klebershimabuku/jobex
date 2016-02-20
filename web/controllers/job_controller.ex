@@ -1,4 +1,4 @@
-defmodule Jobex.PageController do
+defmodule Jobex.JobController do
   use Jobex.Web, :controller
 
   def index(conn, _params) do

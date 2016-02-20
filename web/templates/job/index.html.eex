@@ -1,0 +1,4 @@
+<div class="jumbotron">
+  <h2><%= gettext "Welcome to %{name}", name: "Job Board!" %></h2>
+  <p class="lead">A new job board written in Elixir on Phoenix.</p>
+</div>
